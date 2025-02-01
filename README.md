@@ -1,5 +1,11 @@
- # Accenture-Data-Analytics-and-Visualization-Forage
-  NAVIGATING NUMBERS - Apply your data analytics & visualization skills to advise a social media client on their content creation strategy as a Data Analyst at Accenture
+ # Accenture North America Data Analytics and Visualization Job Simulation on Forage - February 2025
+
+ * Completed a simulation focused on advising a hypothetical social media client
+   as a Data Analyst at Accenture
+ * Cleaned, modelled and analyzed 7 datasets to uncover insights into content
+   trends to inform strategic decisions
+ * Prepared a PowerPoint deck and video presentation to communicate key insights
+   for the client and internal stakeholders
 
 ## Task 1: Project Understanding
 Read the brief from Social Buzz Your first task is to read the brief from Social Buzz and complete a short knowledge check before the call. One of Accenture’s Managing Directors, Mae Mulligan, is the client lead for Social Buzz. She has reviewed the brief provided by Social Buzz and has assembled a diverse team of Accenture experts to deliver the project. Mae has scheduled a project kick off call with the internal Accenture project team for tomorrow morning. Ahead of the call, Mae has shared the project brief so you can get up to speed on what Social Buzz need help with.
