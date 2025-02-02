@@ -7,15 +7,14 @@
  * Prepared a PowerPoint deck and video presentation to communicate key insights
    for the client and internal stakeholders
 
-## Task 1: Project Understanding - <a href = https://github.com/Anjalikumariyes/ccenture-Data-Analytics-and-Visualization-Forage/tree/main/Task%201%20Project%20Understanding>link</a>
+## Task 1: Project Understanding - <a href = https://github.com/Anjalikumariyes/ccenture-Data-Analytics-and-Visualization-Forage/tree/main/Task%201%20Project%20Understanding>Link</a>
 Read the brief from Social Buzz Your first task is to read the brief from Social Buzz and complete a short knowledge check before the call. One of Accenture’s Managing Directors, Mae Mulligan, is the client lead for Social Buzz. She has reviewed the brief provided by Social Buzz and has assembled a diverse team of Accenture experts to deliver the project. Mae has scheduled a project kick off call with the internal Accenture project team for tomorrow morning. Ahead of the call, Mae has shared the project brief so you can get up to speed on what Social Buzz need help with.
 
 Read the brief to: Understand the client and business problem at hand. Identify the requirements that need to be delivered for this project. Identify which tasks you should focus on as a Data Analyst.
 
 Complete the knowledge check to move onto the next step. You can attempt each question in the knowledge check as many times as you like!
 
-## Task 2: Data Cleaning & Modeling
-- <a href = https://github.com/Anjalikumariyes/ccenture-Data-Analytics-and-Visualization-Forage/tree/main/Task%202%20Data%20Cleaning%20%26%20Modeling> link </a>
+## Task 2: Data Cleaning & Modeling - <a href = https://github.com/Anjalikumariyes/ccenture-Data-Analytics-and-Visualization-Forage/tree/main/Task%202%20Data%20Cleaning%20%26%20Modeling> link </a>
 First up, requirements gathering As we mentioned, you have been sent 7 datasets and a data model. Often you won’t need all these datasets to find what you’re looking for. So, the first step is to use this data model to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity. When you think you’ve identified the right data sets to include, complete the multi choice quiz to move onto the next step.
 
 Question 1 of 1 Which three data sets will you need to complete your analysis? Answer : Reaction, Content, Reaction Types Great work! Your job is to identify which content categories are most popular. Popularity is determined based on reaction scores.
@@ -30,8 +29,7 @@ Figure out the Top 5 performing categories Add up the total scores for each cate
 
 You can use Excel or any other tool of your choice to create your final data set.
 
-## Task 3: Data Visualization & Storytelling
-- <a href = htthttps://github.com/Anjalikumariyes/ccenture-Data-Analytics-and-Visualization-Forage/tree/main/Task%203%20Data%20Visualization%20%26%20Storytelling> link</a>
+## Task 3: Data Visualization & Storytelling - <a href = htthttps://github.com/Anjalikumariyes/ccenture-Data-Analytics-and-Visualization-Forage/tree/main/Task%203%20Data%20Visualization%20%26%20Storytelling> link</a>
 Build your presentation Structure Importantly, before you start creating your data charts, you should plan your presentation structure. This will ensure your presentation answers the right questions. Here is a template that we would use at Accenture to create a presentation. You need to download this template and populate slides 2-6.
 
 For each slide, think about: Agenda - What will your presentation cover? Project Recap - What are the key points from the brief? Problem - What is the problem that you answer in this presentation? The Analytics team - Who is on your team? As a reminder from the earlier task - this includes: Andrew Fleming (Chief Technical Architect), Marcus Rompton (Senior Principle), and yourself! Process - How did you complete your analysis?
@@ -44,8 +42,7 @@ In the next step, we’ll review what you’ve included before we start charting
 
 Nice work completing the data visualization exercise! Like we’ve said, it’s important to keep your presentation simple and clean - take a look at the annotated example images to see how you could have visualized the data. You could have done it differently, and that’s okay! There are lots of different ways that you can bring data to life. Now let’s go to your final step where you will practice your presentation skills!
 
-## Task 4: Present to the Client
-<a href = https://github.com/Anjalikumariyes/ccenture-Data-Analytics-and-Visualization-Forage/tree/main/Task%204%20Present%20to%20the%20Client> link</a>
+## Task 4: Present to the Client <a href = https://github.com/Anjalikumariyes/ccenture-Data-Analytics-and-Visualization-Forage/tree/main/Task%204%20Present%20to%20the%20Client> link</a>
 ### Presentation tips
 
 When presenting to the client there are a few things that you should remember: They may not all be familiar with data, so you need to make sure you talk to them in business-friendly language. You want to show them that you’ve understood their business and requirements, so use their terminology and language relevant to the task. This is your time to shine and to show them how great you are! Try to present your work with confidence and conviction, if you don’t feel confident talking about your results then it’s a good indication that you don’t understand them fully or may need to revisit the dataset! Speaking about your results should feel natural when you explain what you’ve done.
@@ -54,6 +51,5 @@ A good presentation always takes a lot of preparation. The more you practice pre
 
 Let’s keep going, you’re nearly finished!
 
-#Certificate of Completion
-- <a href = https://github.com/Anjalikumariyes/ccenture-Data-Analytics-and-Visualization-Forage/blob/main/Certificate%20of%20Completion.pdf/completion_certificate.pdf> link</a>
+# Certificate of Completion - <a href = https://github.com/Anjalikumariyes/ccenture-Data-Analytics-and-Visualization-Forage/blob/main/Certificate%20of%20Completion.pdf/completion_certificate.pdf> link</a>
 
