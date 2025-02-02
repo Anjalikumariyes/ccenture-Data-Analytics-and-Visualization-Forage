@@ -7,7 +7,7 @@
  * Prepared a PowerPoint deck and video presentation to communicate key insights
    for the client and internal stakeholders
 
-## Task 1: Project Understanding - <a href = https://github.com/Anjalikumariyes/ccenture-Data-Analytics-and-Visualization-Forage/tree/main/Task%201%20Project%20Understanding>Link</a>
+## Task 1: Project Understanding - <a href = https://github.com/Anjalikumariyes/ccenture-Data-Analytics-and-Visualization-Forage/tree/main/Task%201%20Project%20Understanding>link</a>
 Read the brief from Social Buzz Your first task is to read the brief from Social Buzz and complete a short knowledge check before the call. One of Accenture’s Managing Directors, Mae Mulligan, is the client lead for Social Buzz. She has reviewed the brief provided by Social Buzz and has assembled a diverse team of Accenture experts to deliver the project. Mae has scheduled a project kick off call with the internal Accenture project team for tomorrow morning. Ahead of the call, Mae has shared the project brief so you can get up to speed on what Social Buzz need help with.
 
 Read the brief to: Understand the client and business problem at hand. Identify the requirements that need to be delivered for this project. Identify which tasks you should focus on as a Data Analyst.
@@ -29,7 +29,7 @@ Figure out the Top 5 performing categories Add up the total scores for each cate
 
 You can use Excel or any other tool of your choice to create your final data set.
 
-## Task 3: Data Visualization & Storytelling - <a href = htthttps://github.com/Anjalikumariyes/ccenture-Data-Analytics-and-Visualization- Forage/tree/main/Task%203%20Data%20Visualization%20%26%20Storytelling> link</a>
+## Task 3: Data Visualization & Storytelling  -<a href= https://github.com/Anjalikumariyes/ccenture-Data-Analytics-and-Visualization-Forage/tree/main/Task%203%20Data%20Visualization%20%26%20Storytelling > link</a>
 Build your presentation Structure Importantly, before you start creating your data charts, you should plan your presentation structure. This will ensure your presentation answers the right questions. Here is a template that we would use at Accenture to create a presentation. You need to download this template and populate slides 2-6.
 
 For each slide, think about: Agenda - What will your presentation cover? Project Recap - What are the key points from the brief? Problem - What is the problem that you answer in this presentation? The Analytics team - Who is on your team? As a reminder from the earlier task - this includes: Andrew Fleming (Chief Technical Architect), Marcus Rompton (Senior Principle), and yourself! Process - How did you complete your analysis?
